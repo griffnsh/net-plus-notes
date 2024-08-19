@@ -33,5 +33,32 @@ Media - refers to physical materials to transmit data, cables and stuff like tha
 
 WAN - Wide Area Network links are used to connect networks over large geographical areas
 
+## OBJ 1.2 Network Resources
+---
+Two main models of how we move data over networks
+
+1. Client/Server Model
+	- **Utilizes a dedicated server to provide access to network resources (files. scanners, printers, etc.)**
+	- Administration and backing up data is easier, backing up the server backs up all the files
+	- Centralized administration
+	- Better scalability -- everything grows from one place
+	- Costs more money, needs dedicated hardware / OS
+	- Most commonly used in business environments
+
+2. Peer to Peer Model
+	- **Clients can share resources together directly
+	- All the files are located on different machines in separate locations
+	- BOTH clients need to be backed up and more work has to be done to keep everything uniform
+	- Peer to peer is low cost, no specialized or dedicated hardware needed
+	- Software based
+	- No dedicated resources, turn a client into a sharing point
+	- Decentralized management
+	- Inefficient to manage at scale
+
+
+## OBJ 1.6 Network Geography
+---
+
+
 
 
