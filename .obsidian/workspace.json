@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b65f6986ab76c87",
+        "id": "4a0faf611e0ea6a5",
         "type": "tabs",
         "children": [
           {
-            "id": "c86b303bf13cbc3a",
+            "id": "cdbab2ca512c21c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI-Model.md",
+                "file": "Network Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI-Model.md",
+                "file": "Network Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI-Model.md",
+                "file": "Network Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI-Model.md"
+                "file": "Network Fundamentals.md"
               }
             }
           }
@@ -146,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c86b303bf13cbc3a",
+  "active": "cdbab2ca512c21c4",
   "lastOpenFiles": [
-    "Welcome.md",
-    "OSI-Model.md"
+    "OSI-model-illustaration.png",
+    "Pasted image 20240818163840.png",
+    "Pasted image 20240818163748.png",
+    "Network Fundamentals.md",
+    "Welcome.md"
   ]
 }
