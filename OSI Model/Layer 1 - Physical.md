@@ -1,0 +1,4 @@
+- Where bits are transmitted across the network -- includes physical and electrical network characteristics
+- All data sent over the physical layer will be bits, binary data
+- Transition Modulation - if it changes during the clock cycle a 1 is represented, otherwise a 0 is represented
+- 
